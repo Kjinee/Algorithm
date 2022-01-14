@@ -6,7 +6,7 @@
 ## Part02 주요 알고리즘 이론과 실전 문제
 |Chapter|코드|내용정리|
 |:---|:---:|:---:|
-|Chapter03 그리디|O|[O](https://kjinee.tistory.com/1)|
+|Chapter03 그리디|[O](https://github.com/Kjinee/Algorithm/tree/main/thisiscodingtest/Part02/Chapter03_Greedy)|[O](https://kjinee.tistory.com/1)|
 |Chapter04 구현|O|[O](https://kjinee.tistory.com/2)|
 |Chapter05 DFS/BFS|O|[O](https://kjinee.tistory.com/4)|
 |Chapter06 정렬|O|[O](https://kjinee.tistory.com/5)|
