@@ -11,7 +11,7 @@
 |Chapter05 DFS/BFS|[O](https://github.com/Kjinee/Algorithm/tree/main/thisiscodingtest/Part02/Chapter05_DFS%2BBFS)|[O](https://kjinee.tistory.com/4)|
 |Chapter06 정렬|[O](https://github.com/Kjinee/Algorithm/tree/main/thisiscodingtest/Part02/Chapter06_Sorting)|[O](https://kjinee.tistory.com/5)|
 |Chapter07 이진 탐색|[O](https://github.com/Kjinee/Algorithm/tree/main/thisiscodingtest/Part02/Chapter07_Binary_Search)|[O](https://kjinee.tistory.com/6)|
-|Chapter08 다이나믹 프로그래밍|[](https://github.com/Kjinee/Algorithm/tree/main/thisiscodingtest/Part02/Chapter08_Dynamic_Programming)|[O](https://kjinee.tistory.com/7)|
+|Chapter08 다이나믹 프로그래밍|[O](https://github.com/Kjinee/Algorithm/tree/main/thisiscodingtest/Part02/Chapter08_Dynamic_Programming)|[O](https://kjinee.tistory.com/7)|
 |Chapter09 최단 경로|||
 |Chapter10 그래프 이론|||
 
