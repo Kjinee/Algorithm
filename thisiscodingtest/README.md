@@ -13,7 +13,7 @@
 |Chapter07 이진 탐색|[O](https://github.com/Kjinee/Algorithm/tree/main/thisiscodingtest/Part02/Chapter07_Binary_Search)|[O](https://kjinee.tistory.com/6)|
 |Chapter08 다이나믹 프로그래밍|[O](https://github.com/Kjinee/Algorithm/tree/main/thisiscodingtest/Part02/Chapter08_Dynamic_Programming)|[O](https://kjinee.tistory.com/7)|
 |Chapter09 최단 경로|[O](https://github.com/Kjinee/Algorithm/tree/main/thisiscodingtest/Part02/Chapter09_Shortest_Path)|[O](https://kjinee.tistory.com/8)|
-|Chapter10 그래프 이론||[O](https://kjinee.tistory.com/9)|
+|Chapter10 그래프 이론|[O](https://github.com/Kjinee/Algorithm/tree/main/thisiscodingtest/Part02/Chapter10_Graph_Theory)|[O](https://kjinee.tistory.com/9)|
 
 ## Part03 알고리즘 유형별 기출문제
 |Chapter|코드|
